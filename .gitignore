@@ -1,0 +1,21 @@
+# --- API Keys ---
+.env
+keys.py
+config.json
+
+# --- Python & Environments ---
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# --- Project Specific Data ---
+# If your transcript folder is huge, ignore it
+transcript/
+output/
+*.npy
+*.json
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
