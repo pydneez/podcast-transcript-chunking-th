@@ -10,11 +10,8 @@ __pycache__/
 *.py[cod]
 
 # --- Project Specific Data ---
-# If your transcript folder is huge, ignore it
-transcript/
-output/
-*.npy
-*.json
+podcast/
+*.mp3
 
 # --- OS Specific ---
 .DS_Store
